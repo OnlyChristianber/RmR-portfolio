@@ -401,7 +401,7 @@ article .icon{
 
 #contact {
     display: flex;
-    justify-content: center;
+    justify-content:center;
     flex-direction: column;
     height: 70vh;
     color: #FEE715;
@@ -409,7 +409,7 @@ article .icon{
   
   .contact-info-upper-container {
     display: flex;
-    justify-content: center;
+    justify-content:space-around;
     border-radius: 2rem;
     border: white 0.1rem solid;
     border-color: white;
@@ -420,10 +420,10 @@ article .icon{
   
   .contact-info-container {
     display: flex;
-    align-items: center;
-    justify-content: center;
+    align-items:center;
+    justify-content:center;
     gap: 0.5rem;
-    margin: 1rem;
+    margin: 1.5rem;
     
   }
   
